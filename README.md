@@ -149,3 +149,12 @@ GitHub repository:
 
 Published website:
 [Insert your published website link
+## 10.References
+Mozilla (n.d.) JavaScript Guide. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide (Accessed: 2 November 2026).
+Mozilla (n.d.) HTML forms. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms (Accessed: 2 November 2026).
+Mozilla (n.d.) CSS media queries. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries (Accessed: 2 November 2026).
+Leaflet (n.d.) Leaflet: An open-source JavaScript library for mobile-friendly interactive maps. Available at: https://leafletjs.com/ (Accessed: 2 November 2026).
+OpenStreetMap (n.d.) Copyright and licence. Available at: https://www.openstreetmap.org/copyright (Accessed: 2 November 2026).
+Google Search Central (n.d.) SEO Starter Guide. Available at: https://developers.google.com/search/docs/fundamentals/seo-starter-guide (Accessed: 2 November 2026).
+GitHub (n.d.) GitHub Pages documentation. Available at: https://docs.github.com/en/pages (Accessed: 2 November 2026).
+Formspree (n.d.) Formspree documentation. Available at: https://formspree.io/ (Accessed: 2 November 2026).
